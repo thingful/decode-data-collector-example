@@ -1,0 +1,6 @@
+capturer==2.4
+decode-datastore-client==0.2.0
+humanfriendly==4.18
+protobuf==3.7.1
+six==1.12.0
+zenroom==0.2.5
